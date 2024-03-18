@@ -1,5 +1,5 @@
 # Nombre del Proyecto
-Proyecto que contiene la biografía de la digura Robin Daniel Jimenez Florez
+Proyecto que contiene la biografía de la figura Robin Daniel Jimenez Florez
 
 ## Tabla de Contenidos
 
